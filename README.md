@@ -1,5 +1,5 @@
 Sentence-ranking
-This Project is uses Word2Vec and Wordnet for ranking sentence according to grammer and rank them according how impport that sentence is or its is valid or not!
+This Project is uses Word2Vec and Wordnet for ranking sentence according to grammer and rank them according how important that sentence is or its is valid or not!
 for example,
   Coffee is hot drink.
 This sounds good and grammatically correct sentence so algorithm rank using WordNet and Word2Vec.
