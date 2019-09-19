@@ -1,10 +1,9 @@
-# Sentence-ranking
-# Sentence-ranking
+Sentence-ranking
 This Project is uses Word2Vec and Wordnet for ranking sentence according to grammer and rank them according how impport that sentence is or its is valid or not!
 for example,
   Coffee is hot drink.
 This sounds good and grammerly correct sentence so algorithm rank using WordNet and Word2Vec.
-But say, 
+But say,
 Coffee is flying on moon and driving a car.
 This Sounds Crazy and it might or might not meaningful.How?
 if Coffee is name of Human.
