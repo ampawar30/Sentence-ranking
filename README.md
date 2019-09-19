@@ -10,7 +10,8 @@ if Coffee is name of Human.
 but sometimes that type of sentence analogy never came across WikipediaDump or Wordnet Dictionary.
 so it should have less ranking.
 
-=============================================================================
+=======================================================================
+
 Coffee Coffee Coffee....1000 X Times
 Sentence has No Meaning
 
@@ -19,6 +20,6 @@ Sentence has No Meaning
 Below Sentence has Meaning.
 
 
-=================================================================================
+=========================================================================
 -Stanford Wordnet is used for same
 WordNet is a lexical database for the English language. It groups English words into sets of synonyms called synsets, provides short definitions and usage examples, and records a number of relations among these synonym sets or their members. WordNet can thus be seen as a combination of dictionary and thesaurus.
