@@ -17,14 +17,16 @@ so it should have less ranking.
 Coffee Coffee Coffee....1000 X Times
 Sentence has No Meaning
 
+Below Sentence has Meaning.
+
 "Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo" is a grammatically correct sentence in 
 American English, often presented as an example of how homonyms and homophones can be used to create complicated 
 linguistic constructs through lexical ambiguity
 
-Below Sentence has Meaning.
 
 
 =========================================================================
+
 -Stanford Wordnet is used for same
 WordNet is a lexical database for the English language. It groups English words into sets of synonyms called synsets, 
 provides short definitions and usage examples, and records a number of relations among these synonym sets or their members.
